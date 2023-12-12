@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    { "id": 1, "nombre": "Arturo", "user": "artu", "pass": "r2" },
+    { "id": 2, "nombre": "Juan", "user": "vertigo", "pass": "12345" }
+  ],
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "documentacion",
+      "detalle": "Hacer una hoja con los comandos usados",
+      "status": "pendiente"
+    }
+  ]
+}
